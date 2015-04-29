@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # A not so efficient password cracker in python
-# Methias Talamantes - CS 177
+# Methias Talamantes - mutty
 
 import crypt, sys, time, os
 
